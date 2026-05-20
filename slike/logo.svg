@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 72" role="img" aria-label="Špoljaričinke logotip">
+  <title>Špoljaričinke – Pancake shop Zagreb, Vlaška ul. 10</title>
+  <desc>Vektorski logotip Špoljaričinki, pancake shopa u Vlaškoj ul. 10, Zagreb</desc>
+  <!-- Pancake stack icon -->
+  <ellipse cx="28" cy="56" rx="22" ry="5.5" fill="#8B451A" opacity="0.25"/>
+  <ellipse cx="28" cy="47" rx="19" ry="5"   fill="#8B451A" opacity="0.45"/>
+  <ellipse cx="28" cy="38" rx="16" ry="4.5" fill="#8B451A" opacity="0.70"/>
+  <ellipse cx="28" cy="30" rx="12" ry="4"   fill="#8B451A" opacity="1"/>
+  <!-- Brand name -->
+  <text x="62" y="55"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-style="italic"
+        font-size="44"
+        font-weight="bold"
+        fill="#4A2A17"
+        letter-spacing="-1">Špoljaričinke</text>
+  <text x="459" y="55"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-style="italic"
+        font-size="44"
+        font-weight="bold"
+        fill="#8B451A">.</text>
+</svg>
